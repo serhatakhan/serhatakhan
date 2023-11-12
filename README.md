@@ -2,7 +2,7 @@
 
 <p align="center">Hey there I'm Serhat, a passionate web developer with a love for open-source projects. I am immersed in the fascinating world of software development, trying to improve my skills and push the boundaries. I always aim for the most functional, applicable, and readable code. I enjoy staying current with the latest trends and technologies in the frontend world. I achieve effective results by working in teams and adhering to ethical principles.</p>
 
-<p align="center">🌱 I’m currently focusing on JS, React and React Native </p> <br>
+<p align="center">🌱 I’m currently focusing on JS, React and React Native. </p> <br>
 
 <h2 align="center">Tech Stack</h2>
 
