@@ -6,7 +6,7 @@
 :telescope: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes. <br>
 :seedling: I’m currently focusing on React and React Native. </p> <br>
 
-<h2 align="center">Tech Stack:</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
