@@ -4,7 +4,7 @@
 :rocket: I believe in writing clean and structured code to ensure maximum compatibility and performance. <br>
 :collision: I am highly motivated, organized and able to work well both independently and as part of a team. <br>
 :telescope: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes. <br>
-:seedling: I’m currently focusing on React and React Native. </p><br>
+:seedling: I’m currently focusing on React and React Native. </p>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -20,15 +20,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p> <br>
+</p>
 
 <h2 align="center">Contact</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/serhat-akhan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhatakhan" height="30" width="40" /></a>
 <a href="https://twitter.com/srhtakhan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srhtakhan" height="30" width="40" /></a> 
-</div> <br>
-
+</div>
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/serhatakhan/count.svg?"  />
 </div>
