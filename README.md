@@ -22,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Socials</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/serhat-akhan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhatakhan" height="30" width="40" /></a>
