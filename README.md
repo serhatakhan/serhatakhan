@@ -4,7 +4,7 @@
 :rocket: I believe in writing clean and structured code to ensure maximum compatibility and performance. <br>
 :collision: I am highly motivated, organized and able to work well both independently and as part of a team. <br>
 :telescope: I am committed to staying up to date with the latest technologies and trends in web development to ensure the best outcomes. <br>
-:seedling: I’m currently focusing on React and React Native. </p> <br>
+:seedling: I’m currently focusing on React and React Native. </p>
 
 <h2 align="center">Contact</h2>
 
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/serhat-akhan/" target="blank">
     <img src=	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white />
   </a> 
-</p><br>
+</p>
 
 <h2 align="center">Tech Stack</h2>
 
